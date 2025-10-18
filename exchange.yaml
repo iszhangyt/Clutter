@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,roogoo.cloud
   - DOMAIN-SUFFIX,roogoo.com
   - DOMAIN-SUFFIX,roogoo.money
+  - DOMAIN-SUFFIX,roogoocom.s3.ap-southeast-1.amazonaws.com
