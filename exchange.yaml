@@ -19,3 +19,6 @@ payload:
   - DOMAIN-SUFFIX,roogoo.com
   - DOMAIN-SUFFIX,roogoo.money
   - DOMAIN-SUFFIX,roogoocom.s3.ap-southeast-1.amazonaws.com
+  # Ready Card(人人卡)
+  - DOMAIN-SUFFIX,ready.co
+  - PROCESS-NAME,im.argent.contractwalletclient
