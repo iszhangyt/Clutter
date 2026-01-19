@@ -1,3 +1,7 @@
 payload:
   # 再漫画（海外无解析，补充域名规则）
   - DOMAIN-SUFFIX,zaimanhua.com
+
+  # Emby 部分直连规则
+  # Lily CDN 国内线路
+  - DOMAIN-SUFFIX,cdn.lilyemby.com
