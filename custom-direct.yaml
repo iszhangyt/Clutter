@@ -5,3 +5,5 @@ payload:
   # Emby 部分直连规则
   # Lily CDN 国内线路
   - DOMAIN-SUFFIX,cdn.lilyemby.com
+  # EmbyMirage 国内线路
+  - DOMAIN-SUFFIX,1huanlesap02.top

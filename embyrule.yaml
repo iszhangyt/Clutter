@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,tanhuatv.site
   # 纸片人
   - DOMAIN-SUFFIX,embyplus.org
+  # EmbyMirage
+  - DOMAIN-SUFFIX,28.al
   # 应用程序
   - PROCESS-NAME,com.hush.yamby
   - PROCESS-NAME,com.mountains.hills
