@@ -9,3 +9,5 @@ payload:
   - DOMAIN-SUFFIX,1huanlesap02.top
   # 自建 Emby 直连线路
   - DOMAIN-SUFFIX,emby-cdn.mokoc.net
+  # 反代 Pilipili 线路
+  - DOMAIN,pilipili.boko.cc
